@@ -21,4 +21,5 @@ have fun with the characters that were chosen.
 * Database: It was used an in-memory database (h2) and sql make the queries.
 
 ## Find me
-[linkedin](https://www.linkedin.com/in/jo%C3%A3o-gabriel-611057245/) 
+* Linkedin: [link](https://www.linkedin.com/in/jo%C3%A3o-gabriel-611057245/)
+* Email: jgabriiell33@gmail.com
