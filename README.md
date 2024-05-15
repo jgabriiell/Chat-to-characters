@@ -18,7 +18,7 @@ have fun with the characters that were chosen.
 
 * Language: The language used was java due to its versatile and security. 
 * Framework: Spring boot was used combinated to java to give power to develop more quickly and easier.
-* Database: It was used an in-memory database (h2) and sql make the queries.
+* Database: It was used an in-memory database (h2) and sql to make the queries.
 
 ## Find me
 * Linkedin: [link](https://www.linkedin.com/in/jo%C3%A3o-gabriel-611057245/)
